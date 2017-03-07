@@ -4,7 +4,7 @@ var json = {
    "children":[
       {
          "id":"126510_1",
-         "name":"Supervisted Learning",
+         "name":"Supervised Learning",
          "data":{
             "band":"Nine Inch Nails",
             "relation":"member of band",
